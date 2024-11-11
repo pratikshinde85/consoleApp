@@ -1,0 +1,14 @@
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\IComparable_Interface_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\IComparable_Interface_Demo.AssemblyInfoInputs.cache
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\IComparable_Interface_Demo.AssemblyInfo.cs
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\IComparable_Interface_Demo.csproj.CoreCompileInputs.cache
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\bin\Debug\net8.0\IComparable_Interface_Demo.exe
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\bin\Debug\net8.0\IComparable_Interface_Demo.deps.json
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\bin\Debug\net8.0\IComparable_Interface_Demo.runtimeconfig.json
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\bin\Debug\net8.0\IComparable_Interface_Demo.dll
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\bin\Debug\net8.0\IComparable_Interface_Demo.pdb
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\IComparable_Interface_Demo.dll
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\refint\IComparable_Interface_Demo.dll
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\IComparable_Interface_Demo.pdb
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\IComparable_Interface_Demo.genruntimeconfig.cache
+D:\.NET\ConsoleApp\IComparable_Interface_Demo\obj\Debug\net8.0\ref\IComparable_Interface_Demo.dll
